@@ -102,30 +102,30 @@ friends: [
 ## Gitalk Settings
 ## Doc:https://github.com/gitalk/gitalk/blob/master/readme-cn.md
 ##
-#gitalk:
-#  owner: VickyLuoLuo                          # 'GitHub repo owner'
-#  admin: VickyLuoLuo                         # 'GitHub repo'
-#  repo: VickyLuoLuo.github.io                          # ['GitHub repo owner and collaborators, only these guys can initialize github issues']
-#  clientID: 174c71e299e44fbdb98f                      # 'GitHub Application Client ID'
-#  clientSecret: 8c97fbd89c8abe4455136d39d1bf5361ce1a1528                  # 'GitHub Application Client Secret'
-#  perPage: 10                     # Pagination size, with maximum 100.
-#  pagerDirection: last            # Comment sorting direction, available values are last and first.
-#  createIssueManually: true      # By default, Gitalk will create a corresponding github issue for your every single page automatically when the logined user is belong to the admin users. You can create it manually by setting this option to true
-#  language: en                    # Localization language key, en, zh-CN and zh-TW are currently available.
-#  maxCommentHeight: 250           # An optional number to limit comments' max height, over which comments will be folded.Default 250.
+gitalk:
+  owner: VickyLuoLuo                          # 'GitHub repo owner'
+  admin: VickyLuoLuo                         # 'GitHub repo'
+  repo: VickyLuoLuo.github.io                          # ['GitHub repo owner and collaborators, only these guys can initialize github issues']
+  clientID: 174c71e299e44fbdb98f                      # 'GitHub Application Client ID'
+  clientSecret: b89fcac752fa9157640097d65ec0796ba699eaa4                  # 'GitHub Application Client Secret'
+  perPage: 10                     # Pagination size, with maximum 100.
+  pagerDirection: last            # Comment sorting direction, available values are last and first.
+  createIssueManually: true      # By default, Gitalk will create a corresponding github issue for your every single page automatically when the logined user is belong to the admin users. You can create it manually by setting this option to true
+  language: en                    # Localization language key, en, zh-CN and zh-TW are currently available.
+  maxCommentHeight: 250           # An optional number to limit comments' max height, over which comments will be folded.Default 250.
 
 ## Gitment Settings
 ## Doc:https://github.com/imsun/gitment
 ##
 
-gitment:
-  owner: VickyLuoLuo                                        # Your GitHub ID. Required.
-  repo: VickyLuoLuo.github.io                               # The repository to store your comments. Make sure you're repo's owner. Required.
-  client_id: 174c71e299e44fbdb98f                           # GitHub client ID. Required.
-  client_secret: b89fcac752fa9157640097d65ec0796ba699eaa4   # GitHub client secret. Required.
-  desc: blog comment back up                                # An optional description for your page, used in issue's body. Default ''.
-  perPage: 10                                               # An optional number to which comments will be paginated. Default 20.
-  maxCommentHeight: 250                                     # An optional number to limit comments' max height, over which comments will be folded. Default 250.
+#gitment:
+#  owner: VickyLuoLuo                                        # Your GitHub ID. Required.
+#  repo: VickyLuoLuo.github.io                               # The repository to store your comments. Make sure you're repo's owner. Required.
+#  client_id: 174c71e299e44fbdb98f                           # GitHub client ID. Required.
+#  client_secret: b89fcac752fa9157640097d65ec0796ba699eaa4   # GitHub client secret. Required.
+#  desc: blog comment back up                                # An optional description for your page, used in issue's body. Default ''.
+#  perPage: 10                                               # An optional number to which comments will be paginated. Default 20.
+#  maxCommentHeight: 250                                     # An optional number to limit comments' max height, over which comments will be folded. Default 250.
 
 ## Disqus settings
 ##
