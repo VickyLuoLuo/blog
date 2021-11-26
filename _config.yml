@@ -298,5 +298,5 @@ gitter:
 ##
 deploy:
   type: git
-  repo: https://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@github.com/VickyLuoLuo/VickyLuoLuo.github.io.git
+  repo: https://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@github.com/VickyLuoLuo/VickyLuoLuo.github.io.git
   branch: main

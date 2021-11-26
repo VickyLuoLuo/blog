@@ -4,7 +4,7 @@ header-img: /img/header_img/post-bg-desk.jpg
 catalog: true
 top:
 tags:
-  - tools
+  - redis
 categories:
   - work
 abbrlink: a10a
