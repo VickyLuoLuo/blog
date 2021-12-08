@@ -11,9 +11,8 @@ abbrlink: '4635'
 
 ------
 
-### [凤凰架构](https://icyfenix.cn/) - 构筑可靠的大型分布式系统
+### [labuladong 的算法小抄](https://labuladong.gitee.io/algo/)
 
-**------ by 周志明**
 
 
 
