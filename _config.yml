@@ -37,7 +37,7 @@ email: vicky123.luo@outlook.com
 description: "It's a personal blog..."
 keyword: "Blog"
 header-img: img/header_img/home-bg.jpg
-archives-img: img/header_img/archive_bg2.jpg
+archives-img: img/header_img/archive_bg.jpg
 
 
 # Favicon settings
@@ -298,5 +298,5 @@ gitter:
 ##
 deploy:
   type: git
-  repo: https://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@github.com/VickyLuoLuo/VickyLuoLuo.github.io.git
+  repo: https://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@github.com/VickyLuoLuo/VickyLuoLuo.github.io.git
   branch: main

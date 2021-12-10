@@ -77,7 +77,7 @@ email:
 description: ""
 keyword: ""
 header-img: img/header_img/newhome_bg.jpg
-archives-img: img/header_img/archive_bg2.jpg
+archives-img: img/header_img/archive_bg.jpg
 ```
 
 ### Favicon Settings
