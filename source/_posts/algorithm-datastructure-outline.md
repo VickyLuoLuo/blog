@@ -2,7 +2,7 @@
 title: 数据结构和算法大纲
 header-img: /img/header_img/post-bg-desk.jpg
 catalog: true
-top: 1
+top: 
 tags:
   - algorithm
   - data structure

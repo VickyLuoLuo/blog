@@ -1,5 +1,14 @@
 ---
 abbrlink: 8c68
+title: HTTP状态码
+header-img: /img/header_img/post-bg-desk.jpg
+catalog: true
+top:
+tags:
+  - http
+categories:
+  - work
+date: 2020-12-09 00:00:00
 ---
 五大类HTTP状态码：
 

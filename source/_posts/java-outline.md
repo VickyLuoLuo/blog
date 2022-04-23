@@ -2,7 +2,7 @@
 title: JAVA知识点汇总
 header-img: /img/header_img/post-bg-desk.jpg
 catalog: true
-top: 1
+top: 
 tags:
   - java
   - spring
