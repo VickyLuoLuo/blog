@@ -5,10 +5,11 @@ catalog: true
 top: 0
 tags:
   - algorithm
+  - data structure
 categories:
   - work
 abbrlink: 73b3
-date: 2020-12-22 00:00:00
+date: 2021-01-22 00:00:00
 subtitle:
 ---
 ### 数据结构与算法---大顶堆
