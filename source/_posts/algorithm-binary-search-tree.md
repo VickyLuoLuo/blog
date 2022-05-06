@@ -6,6 +6,8 @@ top: 0
 tags:
   - algorithm
   - data structure
+  - BST
+  - 二叉树
 categories:
   - work
 abbrlink: c608
