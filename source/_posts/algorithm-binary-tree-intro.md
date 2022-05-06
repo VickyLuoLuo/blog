@@ -10,7 +10,6 @@ date: 2020-12-12 22:34:53
 subtitle:
 header-img:
 categories:
-mathjax: true
 ---
 
 # 数据结构与算法-二叉树的相关概念
@@ -84,8 +83,9 @@ Note: 上图中数值大小关系不重要
 > 定义: 二叉树每一层的节点都是满的 
 
 性质: 高度是h, 节点个数是N, 存在如下关系: 
-
-`2^h -1 == N`
+$$
+2^h -1 == N
+$$
 
 NOTE: 满二叉树有国内, 国外两种不同的定义
 ref: https://baike.baidu.com/item/%E6%BB%A1%E4%BA%8C%E5%8F%89%E6%A0%91  
